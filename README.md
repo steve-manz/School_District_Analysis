@@ -27,6 +27,10 @@
 ---
 ---
 ### Revised School District Scores
+#### The new average math score is 79, which represents 74% of the total students
+#### The new average reading score is 82, which represents 85% of the total students
+#### The number of students who passed both math and reading is 25,105, which represents 64% of the students
+
 
 
 
