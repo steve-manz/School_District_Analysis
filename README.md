@@ -19,9 +19,14 @@
 ### Replace the scores for the 9th graders at Thomas High School to "NaN"
 #### There are 1,635 students at Thomas High School, which is one of the smaller High Schools in the districts
 #### There are 39,170 students in the districts 
----
 #### There are 461 freshmen students in Thomas High School
-#### 
+---
+### As a result of the changes to the 9th graders scores, the Thomas High School average reading score is 84 and the average math score is 83
+### Excluding the 9th graders scores, the number of students who passed math and reading scores were 1,094 and 1,139 respectively.
+### There were 1,064 students in the 10th, 11th and 12th grades in Thomas High School who passed both math and reading
+---
+
+
 
 
 
